@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4511
+
+`vim-ember-script` adds ember-script (http://emberscript.com/) support to vim.
+
+Features:
+
+* detects `*.em` files as `ember-script`
+* sets standard coding style (two-space indentation)
+* smart indentation
+* syntax highlighting
+
+Project page: https://github.com/heartsentwined/vim-ember-script
